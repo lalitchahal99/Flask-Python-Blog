@@ -1,0 +1,19 @@
+{
+	"params":
+	{
+		"local_server": "True",
+		"local_uri": "mysql://root:password@localhost/database",
+		"pro_uri": "mysql://root:@localhost/database",
+
+		"gmail-user": "your-email",
+		"gmail-password": "email-password",
+
+		"no_of_posts": 2,
+		"blog_name": "Travel Boom",
+		
+
+		"admin_username": "lalitchahal",
+		"admin_password": "abcd",
+		"upload_location": "location_in_pc"
+	}
+}
